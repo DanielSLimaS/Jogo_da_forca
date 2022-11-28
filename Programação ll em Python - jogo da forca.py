@@ -11,8 +11,7 @@
 
 
 # Exercício 03 - Jogo da Forca
-#Nome:Daniel dos Santos Silva Junior RA:0040972213018
-#Nome:Júlia Degan Falcão RA:0040972213031
+
 
 import random
 
